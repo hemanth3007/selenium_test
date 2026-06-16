@@ -20,7 +20,7 @@ pipeline {
 			}
 		}
 	}
-	posts {
+	post {
 		success {
 			echo "Build successful"
 		}
